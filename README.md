@@ -2,7 +2,8 @@
 
 ## 投影片及相關連結：
 
-* [Python基礎](https://docs.google.com/presentation/d/140dHWSexhiarrdZVQ1Rf466LgfAlBQz2CPRtrToCe2Q/edit?usp=sharing)
+* [Python基礎 - 投影片](https://docs.google.com/presentation/d/140dHWSexhiarrdZVQ1Rf466LgfAlBQz2CPRtrToCe2Q/edit?usp=sharing)
+* [Python 基本語法](https://github.com/vcdemy/python_basics)
 * [Web簡介 - 投影片](https://docs.google.com/presentation/d/1UEPMx0G-MYWW2gHZs0Y93L6XwVVg5S5I0QLVsv4A0y4/edit?usp=sharing)
 * [爬蟲簡介 - 投影片](https://docs.google.com/presentation/d/1-ydjrfvmsSnn2COglvybabIp5edGubZ8g8Ahh2xDv9k/edit?usp=sharing)
 * [爬蟲練習網站](https://victorgau.github.io/khpy_web_intro/)

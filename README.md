@@ -22,6 +22,16 @@
 
 ## Line Notify 使用簡介：
 
+下載模組：
+
+```bash
+# 在colab中可以用著
+!wget https://raw.githubusercontent.com/vcdemy/linenotify/main/py/linenotify.py
+
+# 在windows上的jupyter notebook/lab或colab中應該都可以用這個
+!curl -o linenotify.py https://raw.githubusercontent.com/vcdemy/linenotify/main/py/linenotify.py
+```
+
 * [相關資料](https://github.com/victorgau/khpy_linenotify_intro)
 * [Line Notify Help](https://help2.line.me/line_notify/web/pc?lang=zh-Hant)
 * [取得 Line Notify Token](https://notify-bot.line.me/en/)
